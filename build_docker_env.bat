@@ -1,6 +1,6 @@
 @echo off
 
-set PG_DB=bhoomi_vivad_2
+set PG_DB=django_test_db
 set PG_PASSWORD=sa123
 set PG_SERVICE_NAME=postgres
 set PG_USER=postgres
